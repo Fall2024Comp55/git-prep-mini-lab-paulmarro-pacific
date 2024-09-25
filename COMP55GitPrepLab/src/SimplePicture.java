@@ -17,8 +17,6 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 	}
 	
-	
-	
 	public static void main(String[] args) {
 		new SimplePicture().start();
 	}
