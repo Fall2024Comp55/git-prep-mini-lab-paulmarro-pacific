@@ -16,7 +16,6 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I felt before knowing about github", 200, 300);
 		add(label);
 	}
-	
 	public static void main(String[] args) {
 		new SimplePicture().start();
 	}
